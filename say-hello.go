@@ -1,4 +1,4 @@
-package applearngomodule
+package learngomodule
 
 func SayHello() string {
 	return "Hello"
